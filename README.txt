@@ -36,3 +36,27 @@ git config --globa1 user.name "name of Person"
 git is tool to track Changes in Files/Folder.
 gitHub is a Platform to Store your repositories on Cloud.
 git != Github
+
+
+
+For Updating Renamed Branch Name
+-----------------------------------
+git branch -m stagging main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
+-------------------------------
+
+Create new Branch 
+git checkout -b stagging
+
+Switch to Stagging Branch
+git checkout stagging
+git merge stagging
+or
+git merge stagging --allow-unrelated-histories
+Now
+git add .
+git commit -m "My merging Done"
+git push origin master
+
