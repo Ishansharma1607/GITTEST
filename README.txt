@@ -67,3 +67,21 @@ Deleting a branch
 -----------------------
 git push origin --delete stagging
 
+
+
+===================================
+1.Added a Text file & Added Numbers into this U
+2.git add & git commit will be fired
+3.Create new Branch X
+4.Add Alphabets
+
+5.git add & git commit will be fired. 
+6.Switch to Master & delete Some Numbers
+
+7.git add & git commit will be fired.
+
+8.Switch to X Branch
+
+9.Try to merge Master into X
+=============================================
+
