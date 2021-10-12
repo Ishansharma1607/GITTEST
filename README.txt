@@ -8,3 +8,5 @@
 
 5.git checkout "id of commit" > to switch to previous commit status
 6.git checkout master > To come back to current status
+git remote add origin https://github.com/Ishansharma1607/GITTEST.git
+git push -u origin master
