@@ -62,3 +62,8 @@ git commit -m "My merging Done"
 git push origin master
 
 ----------------------------
+
+Deleting a branch
+-----------------------
+git push origin --delete stagging
+
