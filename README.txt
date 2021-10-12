@@ -47,7 +47,8 @@ git branch -u origin/main main
 git remote set-head origin -a
 -------------------------------
 
-Create new Branch 
+Create new Branch and Merging
+---------------------------
 git checkout -b stagging
 
 Switch to Stagging Branch
