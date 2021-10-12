@@ -70,7 +70,7 @@ git push origin --delete stagging
 
 
 ===================================
-1.Added a Text file & Added Numbers into this U
+1.Added a Text file & Added Numbers into this While You Are In master
 2.git add & git commit will be fired
 3.Create new Branch X
 4.Add Alphabets
